@@ -1,0 +1,10 @@
+[package]
+name = "limit-orderbook"
+version = "0.1.0"
+authors = ["Zhe <zhe@solworks.dev>"]
+description = "A very crude limit order book implementation in Rust. Not for production use."
+license = "MIT"
+repository = "https://github.com/zhe-t/rust-orderbook"
+edition = "2021"
+
+[dependencies]
